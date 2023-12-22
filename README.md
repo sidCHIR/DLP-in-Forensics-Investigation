@@ -1,5 +1,5 @@
 # DLP-in-Forensics-Investigation
-Data Loss Protection in Digital Forensics Investigation Tool
+Data Loss Protection (DLP) in Digital Forensics Investigation Tool
 
 Data Loss Protection (DLP) is a critical aspect of any digital forensics investigation tool. In today's digital age, the vast amount of data being generated and stored presents numerous challenges when it comes to safeguarding sensitive information during an investigation. Therefore, it is essential for forensic tools to incorporate robust DLP mechanisms to prevent accidental or intentional data breaches that could compromise the integrity, confidentiality, and availability of digital evidence.
 
